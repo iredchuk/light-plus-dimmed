@@ -1,0 +1,27 @@
+{
+  "name": "light-plus-dimmed",
+  "displayName": "Light+ Dimmed",
+  "description": "Default Light+ color theme with dimmed background",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iredchuk/light-plus-dimmed.git"
+	},
+  "version": "1.0.0",
+	"license": "MIT",
+  "publisher": "iredchuk",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light+ Dimmed",
+        "uiTheme": "vs",
+        "path": "./themes/light_plus_dimmed.json"
+      }
+    ]
+  }
+}
