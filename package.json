@@ -2,12 +2,12 @@
   "name": "light-plus-dimmed",
   "displayName": "Light+ Dimmed",
   "description": "Colour theme for VS Code based on the default Light+, but with dimmed background",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/iredchuk/light-plus-dimmed.git"
-	},
-  "version": "1.0.0",
-	"license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iredchuk/light-plus-dimmed.git"
+  },
+  "version": "1.0.1",
+  "license": "MIT",
   "publisher": "iredchuk",
   "engines": {
     "vscode": "^1.14.0"
